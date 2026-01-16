@@ -35,3 +35,5 @@ elif days=="7":
     print("Sunday")
 else:
     print("Out of Range:(")
+
+#Hospitals and Prisons are the place where only the real ones visit you
